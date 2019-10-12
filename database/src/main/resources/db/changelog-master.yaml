@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: classpath:db/base/session.yaml
+  - include:
+      file: classpath:db/v1.0.0/1.0.0.yaml

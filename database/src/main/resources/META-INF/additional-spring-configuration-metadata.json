@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "paripassu.database.jdbc.driverClassName",
+      "type": "java.lang.String",
+      "description": "Description for paripassu.database.jdbc.driverClassName."
+    },
+    {
+      "name": "paripassu.database.jdbc.url",
+      "type": "java.lang.String",
+      "description": "Description for paripassu.database.jdbc.url."
+    },
+    {
+      "name": "paripassu.database.jdbc.username",
+      "type": "java.lang.String",
+      "description": "Description for paripassu.database.jdbc.username."
+    },
+    {
+      "name": "paripassu.database.jdbc.password",
+      "type": "java.lang.String",
+      "description": "Description for paripassu.database.jdbc.password."
+    }
+  ] }
